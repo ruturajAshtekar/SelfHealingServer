@@ -1,6 +1,3 @@
-**Self-Healing & Auto-Scaling Web Application:**
-
-A containerized web application deployed inside a Vagrant-based Linux VM, designed to automatically recover from failures, scale based on load, and provide real-time monitoring using modern DevOps tools.
 
 **Overview**
 
